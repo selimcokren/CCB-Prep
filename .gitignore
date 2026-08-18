@@ -1,0 +1,3 @@
+# Temporary CCB pipeline output — never commit fetched WI data or reports
+temp/
+output/
